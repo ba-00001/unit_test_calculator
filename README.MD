@@ -1,5 +1,7 @@
 # Calculator Project
 
+![Check Style](https://github.com/ba-00001/unit_test_calculator/workflows/Check%20Style/badge.svg)
+
 This is a basic calculator project that performs arithmetic operations.
 
 ## Features
