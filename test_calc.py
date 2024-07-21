@@ -1,6 +1,7 @@
 import unittest
 from calc import Calc
 
+
 class TestCalc(unittest.TestCase):
 
     def setUp(self):
@@ -14,4 +15,3 @@ class TestCalc(unittest.TestCase):
 
     def test_mul(self):
         self.assertEqual(self.calc.mul(2, 3), 6)
-
